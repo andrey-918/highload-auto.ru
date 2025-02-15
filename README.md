@@ -36,7 +36,7 @@
 | **Среднее время посещения**           | 00:04:53                            |
 
 ##### Веб-трафик
-[![Traffic by Country](img/traffic/countries.png)](https://www.similarweb.com/ru/website/auto.ru) [^2]
+[![Traffic by Country](img/traffic/countries.png)] [^2]
 
 
 #### Функционал
