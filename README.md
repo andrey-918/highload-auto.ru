@@ -55,5 +55,5 @@
 ## Список источников
 
 [^1]: [Официальный сайт Auto.ru](https://www.auto.ru) - информация о функционале и услугах.
-[^2]: [Website Analysis similarweb](https://www.similarweb.com/ru/website/auto.ru) - Анализ веб-трафика auto.ru
+[^2]: [Website Analysis similarweb](https://www.similarweb.com/ru/website/auto.ru) - анализ веб-трафика auto.ru
 
