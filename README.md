@@ -53,7 +53,7 @@
 Поскольку в месяц аудитория 30 миллионов, а среднем пользователь посещает сайт 2.5 дня в месяца [^3], следовательно в среднем 2.5 миллионов уникальных пользователей заходит на сайт в день (30 миллионов за месяц * 2.5 дня / 30 дня = 2.5 миллиона)
 
 ##### Веб-трафик
-![Traffic by Country](img/traffic/countries.png) [^2]
+![Traffic by Country](img/traffic/countries.png) [^4]
 
 
 #### Функционал
@@ -222,5 +222,7 @@
 ## Список источников
 
 [^1]: [Официальный сайт Auto.ru](https://www.auto.ru) - информация о функционале и услугах.
-[^2]: [Website Analysis similarweb](https://www.similarweb.com/ru/website/auto.ru) - анализ веб-трафика auto.ru
+[^2]: [SpyMetrics](https://spymetrics.ru/ru/website/auto.ru) - анализ трафика auto.ru
 [^3]: [Yandex](https://yandex.ru/support/autoru-legal/ru) - о сервисе для партнеров
+[^4]: [Website Analysis similarweb](https://www.similarweb.com/ru/website/auto.ru) - анализ веб-трафика auto.ru
+
