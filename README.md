@@ -1,4 +1,4 @@
-# Auto.ru
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/842b5a53-9de0-4117-923e-70fd22a40622" /># Auto.ru
 
 ## Содержание
 
@@ -255,6 +255,7 @@ pie
   "Остальная Россия": 26
 ```
 
+![MapOfDC](img/dc/mapofdc.png)
 
 #### Расчет распределения запросов по типам запросов и ДЦ
 
