@@ -1,4 +1,4 @@
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/842b5a53-9de0-4117-923e-70fd22a40622" /># Auto.ru
+# Auto.ru
 
 ## Содержание
 
