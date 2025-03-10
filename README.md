@@ -317,5 +317,5 @@ BGP Anycast — это метод маршрутизации, который п�
 [^2]: [SpyMetrics](https://spymetrics.ru/ru/website/auto.ru) - анализ трафика auto.ru
 [^3]: [Yandex](https://yandex.ru/support/autoru-legal/ru) - о сервисе для партнеров
 [^4]: [Website Analysis similarweb](https://www.similarweb.com/ru/website/auto.ru) - анализ веб-трафика auto.ru
-[^4]: [Inclient](https://inclient.ru/avito-stats/#avitoru) - анализ веб-трафика avito от Inclient.ru
+[^5]: [Inclient](https://inclient.ru/avito-stats/#avitoru) - анализ веб-трафика avito от Inclient.ru
 
